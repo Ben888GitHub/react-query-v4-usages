@@ -9,3 +9,10 @@ https://www.youtube.com/watch?v=627vAbdJ9KA
 https://www.youtube.com/watch?v=Kjkx2BASAZA&t=56s
 
 https://www.youtube.com/watch?v=elwkujQ4Nzg 
+
+--
+
+Blog References:
+https://medium.com/@navneetsingh_95791/exploring-the-basics-of-react-query-getting-started-with-data-fetching-and-caching-fc040910e6a0
+https://medium.com/@kurucaner/usequery-vs-usemutation-ed730441709c 
+https://waresix.engineering/react-query-v4-the-solution-for-effortless-data-fetching-in-react-a27f19d9dea8
