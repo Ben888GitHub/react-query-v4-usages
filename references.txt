@@ -16,3 +16,7 @@ Blog References:
 https://medium.com/@navneetsingh_95791/exploring-the-basics-of-react-query-getting-started-with-data-fetching-and-caching-fc040910e6a0
 https://medium.com/@kurucaner/usequery-vs-usemutation-ed730441709c 
 https://waresix.engineering/react-query-v4-the-solution-for-effortless-data-fetching-in-react-a27f19d9dea8
+
+
+Beginner-Friendly Example:
+https://javascript.plainenglish.io/react-query-supercharging-data-fetching-in-react-applications-e012e33693f7
